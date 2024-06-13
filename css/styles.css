@@ -105,4 +105,5 @@ section button{
     border-radius: 9px;
     margin-top: 1.5em;
     font-size: 1em;
+    cursor: pointer; 
 }
